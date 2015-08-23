@@ -154,14 +154,16 @@ def test_RecommendationEngine_LastPostIdWithoutLimit():
         return False
 
 
-test_RecommendationEngine_NoParameters()
-test_RecommendationEngine_HighLimit()
-test_RecommendationEngine_LowLimit()
-test_RecommendationEngine_DescendingOrder()
-test_RecommendationEngine_CheckLikeCount()
-test_RecommendationEngine_PopularPosts()
-test_RecommendationEngine_LastPostId()
-test_RecommendationEngine_LastPostIdWithLimit()
-test_RecommendationEngine_LastPostIdWithoutLimit()
-
-print ""
+SUCCESS = test_RecommendationEngine_NoParameters()
+SUCCESS = SUCCESS and test_RecommendationEngine_HighLimit()
+SUCCESS = SUCCESS and test_RecommendationEngine_LowLimit()
+SUCCESS = SUCCESS and test_RecommendationEngine_DescendingOrder()
+SUCCESS = SUCCESS and test_RecommendationEngine_CheckLikeCount()
+SUCCESS = SUCCESS and test_RecommendationEngine_PopularPosts()
+SUCCESS = SUCCESS and test_RecommendationEngine_LastPostId()
+SUCCESS = SUCCESS and test_RecommendationEngine_LastPostIdWithLimit()
+SUCCESS = SUCCESS and test_RecommendationEngine_LastPostIdWithoutLimit()
+if SUCCESS == True:
+    print "All tests have succeeded."
+else:
+    print "One of the tests has failed."
