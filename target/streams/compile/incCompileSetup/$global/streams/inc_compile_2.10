@@ -1,0 +1,595 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+43 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$3.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$1.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$2.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$apply$1.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$apply$2.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$5.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$6.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$7.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$8.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$predict$1.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$train$1.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$train$2.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$train$3.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSModel.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$1$$anonfun$2.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$1.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$3$$anonfun$4.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$3.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$5$$anonfun$6.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$5.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSourceParams$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSourceParams.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/LikeEvent$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/LikeEvent.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Post$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Post.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/TrainingData.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/User$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/User.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PostScore$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PostScore.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PredictedResult$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PredictedResult.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ProductRankingEngine$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ProductRankingEngine.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Query$.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Query.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Preparator.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PreparedData.class
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Serving.class
+binary dependencies:
+23 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/data_2.10/jars/data_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/data_2.10/jars/data_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> /Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> /Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+9 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+43 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$4
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$4$$anonfun$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$4$$anonfun$2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$4$$anonfun$apply$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$4$$anonfun$apply$2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$5
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$6
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$7
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$8
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$predict$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$train$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$train$2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSAlgorithm$$anonfun$train$3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper.ALSModel
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource$$anonfun$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource$$anonfun$1$$anonfun$2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource$$anonfun$3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource$$anonfun$3$$anonfun$4
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource$$anonfun$5
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSource$$anonfun$5$$anonfun$6
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSourceParams
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.DataSourceParams$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.LikeEvent
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.LikeEvent$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.Post
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.Post$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.TrainingData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.User
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper.User$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.PostScore
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.PostScore$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.PredictedResult
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.PredictedResult$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.ProductRankingEngine
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.ProductRankingEngine$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.Query
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper.Query$
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Piotrekoper.Preparator
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Piotrekoper.PreparedData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> Piotrekoper.Serving
+used names:
+310 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> !=
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> &&
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> +
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> <init>
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ==
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ALS
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ALSAlgorithm
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ALSModel
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Array
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> BiMap
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ClassTag
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Int
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Integer2int
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Logger
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> MLlibRating
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Math
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Ordering
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> P2LAlgorithm
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ParVector
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Params
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Piotrekoper
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Predef
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> PredictedResult
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> PreparedData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Query
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> RDD
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Rating
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Serializable
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> SparkContext
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> String
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> StringContext
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> Tuple2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> _1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> _2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> _3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> _4
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> apache
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> apply
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> canBuildFrom
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> collect
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> collection
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> controller
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> counts
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> data
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> end
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> equals
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> filter
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> getOrElse
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> grizzled
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> immutable
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> indexWhere
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> info
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> int2Integer
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> io
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> isEmpty
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> java
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> keys
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> lang
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> lastPostId
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> length
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> likeEvent
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> likeEvents
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> limit
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> logger
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> map
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> materializeClassTag
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> math
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> min
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> mllib
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> model
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ne
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> org
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> package
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> pair
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> parallel
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> pid
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> pindex
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> post
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> postPosition
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> postRanks
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> postStringIntMap
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> posts
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> predict
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> prediction
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> qual$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> query
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> ranks
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> rdd
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> rddToPairRDDFunctions
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> recommendation
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> reduceByKey
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> refArrayOps
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> require
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> s
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> slf4j
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> slice
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> sortBy
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> spark
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> start
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> storage
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> stringInt
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> take
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> triplet
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> u
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> uindex
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> unary_!
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> user
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> userStringIntMap
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> users
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> x$3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> x$4
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> x$5
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> &&
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> +
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> <init>
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> ==
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> AbstractFunction0
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> AbstractFunction1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> AbstractFunction3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> ClassTag
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> DataSource
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> DataSourceParams
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> EmptyActualResult
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> EmptyEvaluationInfo
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Event
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Exception
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> LikeEvent
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> List
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Logger
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Long
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> None
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> PDataSource
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> PEventStore
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Params
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Piotrekoper
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Post
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Predef
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Product
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Query
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> RDD
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> ScalaRunTime
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Serializable
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> SparkContext
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Statics
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> String
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> StringContext
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> TrainingData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> Tuple2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> User
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> _1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> _2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> _hashCode
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> _toString
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> aggregateProperties
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> anyHash
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> apache
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> appName
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> apply
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> asInstanceOf
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> cache
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> controller
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> count
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> data
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> dsp
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> e
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> entityId
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> eq
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> error
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> event
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> eventTime
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> finalizeHash
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> find
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> get
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> getMillis
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> grizzled
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> immutable
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> io
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> isInstanceOf
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> likeEvent
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> likeEvents
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> likeEventsRDD
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> logger
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> longHash
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> map
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> materializeClassTag
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> mix
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> ne
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> org
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> package
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> post
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> posts
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> postsRDD
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> prediction
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> properties
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> rdd
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> refArrayOps
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> runtime
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> s
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> sc
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> slf4j
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> spark
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> storage
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> store
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> t
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> take
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> targetEntityId
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> toList
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> toString
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> typedProductIterator
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> user
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> users
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> usersRDD
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$10
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$3
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$4
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$5
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$6
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$7
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$8
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> x$9
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> ||
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> &&
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> ->
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> <init>
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> ==
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> AbstractFunction1
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> AbstractFunction2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Array
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Engine
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> IEngineFactory
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Integer
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Map
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> None
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Piotrekoper
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> PostScore
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Predef
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> PredictedResult
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Product
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> ProductRankingEngine
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Query
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> ScalaRunTime
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> Serializable
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> String
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> _hashCode
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> _toString
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> any2ArrowAssoc
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> apply
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> asInstanceOf
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> controller
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> eq
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> io
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> isInstanceOf
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> java
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> lang
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> lastPostId
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> likeScores
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> likes
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> limit
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> postID
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> prediction
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> runtime
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> toString
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> typedProductIterator
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> ||
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> <init>
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> LikeEvent
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> PPreparator
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Piotrekoper
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Post
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Predef
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Preparator
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> PreparedData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> RDD
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Serializable
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> SparkContext
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> String
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> TrainingData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> Tuple2
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> User
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> apache
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> controller
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> io
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> likeEvents
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> org
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> posts
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> prediction
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> rdd
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> scala
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> spark
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> trainingData
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> users
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> <init>
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> LServing
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> Piotrekoper
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> PredictedResult
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> Query
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> Seq
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> Serving
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> controller
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> head
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> io
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> package
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> predictedResults
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> prediction
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> scala
+product stamps:
+43 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$3.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$1.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$2.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$apply$1.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4$$anonfun$apply$2.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$4.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$5.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$6.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$7.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$8.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$predict$1.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$train$1.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$train$2.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm$$anonfun$train$3.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSAlgorithm.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ALSModel.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$1$$anonfun$2.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$1.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$3$$anonfun$4.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$3.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$5$$anonfun$6.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource$$anonfun$5.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSource.class -> lastModified(1440326844000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSourceParams$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/DataSourceParams.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/LikeEvent$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/LikeEvent.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Post$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Post.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PostScore$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PostScore.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PredictedResult$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PredictedResult.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Preparator.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/PreparedData.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ProductRankingEngine$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/ProductRankingEngine.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Query$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Query.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/Serving.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/TrainingData.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/User$.class -> lastModified(1440326845000)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/classes/Piotrekoper/User.class -> lastModified(1440326845000)
+source stamps:
+5 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> hash(7a953f29a729fec60efba58a5d3124646798d917)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> hash(5811dc2bbc6f0539ede8c119bc4d89dd3756be10)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> hash(c1e5d3b41ddbda04c057d2ca5bd9789c37bf0687)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> hash(8ef8f29ccc87026edcdf6aa7d98b39ec71edad45)
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> hash(d2228d38f48cee5f2a9d4520ced44d675db74f73)
+binary stamps:
+8 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428691662000)
+/Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar -> lastModified(1437090592000)
+/Users/peterbugaj/.ivy2/cache/io.prediction/data_2.10/jars/data_2.10-0.9.4.jar -> lastModified(1437090600000)
+/Users/peterbugaj/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar -> lastModified(1421023878000)
+/Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar -> lastModified(1425598998000)
+/Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar -> lastModified(1425599015000)
+/Users/peterbugaj/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar -> lastModified(1398608828000)
+/Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+8 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/peterbugaj/.ivy2/cache/io.prediction/core_2.10/jars/core_2.10-0.9.4.jar -> io.prediction.controller.LServing
+/Users/peterbugaj/.ivy2/cache/io.prediction/data_2.10/jars/data_2.10-0.9.4.jar -> io.prediction.data.storage.Event
+/Users/peterbugaj/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar -> org.joda.time.DateTime
+/Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar -> org.apache.spark.SparkContext
+/Users/peterbugaj/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar -> org.apache.spark.mllib.recommendation.ALS$
+/Users/peterbugaj/.ivy2/cache/org.clapper/grizzled-slf4j_2.10/jars/grizzled-slf4j_2.10-1.0.2.jar -> grizzled.slf4j.Logger
+/Users/peterbugaj/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.collection.Seq
+internal apis:
+5 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAi0U6fAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNAYG8t0AAZub3RpZnlzcQB+AAxExQLbdAAFcmFua3NzcQB+AAx3+MD+dAAEd2FpdHNxAH4ADDJt31B0AA0kYXNJbnN0YW5jZU9mc3EAfgAMgpo0x3QABmxvZ2dlcnNxAH4ADILjoi90AAxiYXRjaFByZWRpY3RzcQB+AAxCNod1dAALcHJlZGljdEJhc2VzcQB+AAxr9poEdAATbWFrZVBlcnNpc3RlbnRNb2RlbHNxAH4ADJvnr+t0AAZlcXVhbHNzcQB+AAwcPHM+dAAIQUxTTW9kZWxzcQB+AAyYP8qEdAAMYXNJbnN0YW5jZU9mc3EAfgAMFt3EeHQADHN5bmNocm9uaXplZHNxAH4ADPXKbPl0AA0kaXNJbnN0YW5jZU9mc3EAfgAM53oWO3QAEGJhdGNoUHJlZGljdEJhc2VzcQB+AAyycOARdAAYZ3NvblR5cGVBZGFwdGVyRmFjdG9yaWVzc3EAfgAMEBoRhnQACnF1ZXJ5Q2xhc3NzcQB+AAyNuz6OdAAPcXVlcnlTZXJpYWxpemVyc3EAfgAMNjSzUXQACW5vdGlmeUFsbHNxAH4ADBc8U4t0AAxpc0luc3RhbmNlT2ZzcQB+AAx9qH8TdAAMQUxTQWxnb3JpdGhtc3EAfgAMvX/7pnQABjxpbml0PnNxAH4ADDQs2X50AAl0cmFpbkJhc2VzcQB+AAy0lZbndAACPT1zcQB+AAxOen2fdAAFY2xvbmVzcQB+AAww0N3ddAAIdG9TdHJpbmdzcQB+AAxNxRC2dAACIT1zcQB+AAzVk2ErdAAFdHJhaW5zcQB+AAwob4s/dAAHcHJlZGljdHNxAH4ADFOi3Yd0AAhnZXRDbGFzc3NxAH4ADG1+E8J0AAJuZXNxAH4ADF0Eo8Z0AAJlcXNxAH4ADB/1pSN0AAIjI3NxAH4ADGiS8VN0AAhmaW5hbGl6ZXNxAH4ADPPFi3B0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABRQaW90cmVrb3Blci5BTFNNb2RlbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcwBwc3EAfgB4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AfHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYdAAEamF2YXNxAH4AmHQAAmlvcQB+AJ1zcQB+AIx0AAZPYmplY3RzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYcQB+AKNzcQB+AJh0AARsYW5ncQB+AJ1zcQB+AIx0AANBbnlxAH4AknNxAH4AWHEAfgBldXEAfgBmAAAAAHNxAH4AaAB0ABhQaW90cmVrb3Blci5BTFNBbGdvcml0aG11cQB+AGsAAAAAcQB+AG91cQB+AHEAAAABdAAlaW8ucHJlZGljdGlvbi5hbm5vdGF0aW9uLkRldmVsb3BlckFwaXNxAH4AcwBwc3EAfgB4cQB+AH1zcQB+AHMAcHNxAH4AeHNxAH4AgHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXEAfgCKAAAACHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AjVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ae3NxAH4AjHQADFAyTEFsZ29yaXRobXNxAH4AkHNxAH4Ak3VxAH4AlgAAAARzcQB+AJh0AAJpb3NxAH4AmHQACnByZWRpY3Rpb25zcQB+AJh0AApjb250cm9sbGVycQB+AJ11cQB+AIoAAAAEc3EAfgCMdAAMUHJlcGFyZWREYXRhc3EAfgCQc3EAfgCTdXEAfgCWAAAAAnNxAH4AmHQAC1Bpb3RyZWtvcGVycQB+AJ1zcQB+AIx0AAhBTFNNb2RlbHEAfgDWc3EAfgCMdAAFUXVlcnlxAH4A1nNxAH4AjHQAD1ByZWRpY3RlZFJlc3VsdHEAfgDWc3EAfgDFc3EAfgCMdAANQmFzZUFsZ29yaXRobXNxAH4AkHNxAH4Ak3VxAH4AlgAAAARzcQB+AJh0AAJpb3NxAH4AmHQACnByZWRpY3Rpb25zcQB+AJh0AARjb3JlcQB+AJ11cQB+AIoAAAAEcQB+ANRxAH4A23EAfgDdcQB+AN9zcQB+AIx0ABNCYXNlUXVlcnlTZXJpYWxpemVycQB+AORzcQB+AIx0AAxBYnN0cmFjdERvZXJxAH4A5HNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAAnNxAH4AmHEAfgCbcQB+AJ1zcQB+AIxxAH4Aj3NxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Ao3NxAH4AmHQAAmlvcQB+AJ1zcQB+AIxxAH4Ap3NxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Ao3NxAH4AmHEAfgCtcQB+AJ1zcQB+AIxxAH4Ar3EAfgDzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALUGlvdHJla29wZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU9aK2l6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYC9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9yZWNvbW1lbmRhdGlvbi1lbmdpbmUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHqVPymnKf7GDvulil0xJGRnmNkX
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDzofA3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cB1AR9d0AAxyZWFkRXZhbEJhc2VzcQB+AAzoOfiLdAAGbm90aWZ5c3EAfgAMXsjnvXQABHJlYWRzcQB+AAxYRnrddAAEcG9zdHNxAH4ADMUPKWZ0AAxUcmFpbmluZ0RhdGFzcQB+AAwdogVKdAAEd2FpdHNxAH4ADLTcijN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADD6u/z50AA0kYXNJbnN0YW5jZU9mc3EAfgAMCLPqUnQAA2RzcHNxAH4ADJErYgZ0AAVwb3N0c3NxAH4ADHU8nER0AAZsb2dnZXJzcQB+AAzJCL2EdAAMcHJvZHVjdEFyaXR5c3EAfgAMtb/hXnQABmVxdWFsc3NxAH4ADM/kdXt0ABBEYXRhU291cmNlUGFyYW1zc3EAfgAMtExj4nQAB2FwcE5hbWVzcQB+AAxWOYe0dAABdHNxAH4ADFMXOUZ0AAxhc0luc3RhbmNlT2ZzcQB+AAwC8a5IdAAFdXNlcnNzcQB+AAzEmPZRdAAMc3luY2hyb25pemVkc3EAfgAMauAEB3QADSRpc0luc3RhbmNlT2ZzcQB+AAzEdr0/dAAJTGlrZUV2ZW50c3EAfgAMgp4BVXQACHJlYWRFdmFsc3EAfgAMeHfROnQACGNhbkVxdWFsc3EAfgAMTsO/DXQADXByb2R1Y3RQcmVmaXhzcQB+AAx//fUtdAAJbm90aWZ5QWxsc3EAfgAMomQTSHQADGlzSW5zdGFuY2VPZnNxAH4ADOAGKaJ0AApsaWtlRXZlbnRzc3EAfgAMTgKbLXQABjxpbml0PnNxAH4ADGWU9JR0AAI9PXNxAH4ADEBrspB0AARQb3N0c3EAfgAMN359fnQABWNsb25lc3EAfgAMpzCYx3QABFVzZXJzcQB+AAzqERZndAAOY29weSRkZWZhdWx0JDNzcQB+AAzFhN7JdAAEY29weXNxAH4ADALaayh0AAh0b1N0cmluZ3NxAH4ADBwuSRd0AAIhPXNxAH4ADDZLf4B0AAhnZXRDbGFzc3NxAH4ADLCWiMN0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADIf6A8l0AAJuZXNxAH4ADEdTeBZ0AAR1c2Vyc3EAfgAMBwgUznQAAmVxc3EAfgAM98tC9XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEuChn50ABByZWFkVHJhaW5pbmdCYXNlc3EAfgAMdSo1dHQAAiMjc3EAfgAMhlZCdXQACkRhdGFTb3VyY2VzcQB+AAxGyjnPdAAIZmluYWxpemVzcQB+AAwGvW9MdAAMcmVhZFRyYWluaW5nc3EAfgAMcFh2U3QADnByb2R1Y3RFbGVtZW50c3EAfgAMG4k8n3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AeXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHFBpb3RyZWtvcGVyLkRhdGFTb3VyY2VQYXJhbXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJEAcHNxAH4AlnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB5TAAJaW5oZXJpdGVkcQB+AHlMAAdwYXJlbnRzcQB+AHl4cQB+AJpzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAHc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmXQAB1Byb2R1Y3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALdzcQB+AKp0AAZFcXVhbHNxAH4AsHNxAH4AqnQABlBhcmFtc3NxAH4ArnNxAH4AsXVxAH4AtAAAAARzcQB+ALZ0AAJpb3NxAH4AtnQACnByZWRpY3Rpb25zcQB+ALZ0AApjb250cm9sbGVycQB+ALtzcQB+AKp0AAxTZXJpYWxpemFibGVxAH4AsHNxAH4AqnEAfgDKc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnQABGphdmFzcQB+ALZ0AAJpb3EAfgC7c3EAfgCqdAAGT2JqZWN0c3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgDQc3EAfgC2dAAEbGFuZ3EAfgC7c3EAfgCqdAADQW55cQB+ALBzcQB+AHZxAH4Ag3VxAH4AhAAAAABzcQB+AIYAdAAWUGlvdHJla29wZXIuRGF0YVNvdXJjZXVxAH4AiQAAAABxAH4AjXVxAH4AjwAAAAF0ABBzY2FsYS5kZXByZWNhdGVkc3EAfgCRAHBzcQB+AJZxAH4Am3NxAH4AkQBwc3EAfgCWc3EAfgCec3EAfgCRAHBzcQB+AJZ1cQB+AHQAAAAAc3EAfgCRAHBzcQB+AJZ1cQB+AHQAAAAAc3EAfgCRAHBzcQB+AJZ1cQB+AKgAAAAHc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCrWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCZc3EAfgCqdAALUERhdGFTb3VyY2VzcQB+AK5zcQB+ALF1cQB+ALQAAAAEc3EAfgC2dAACaW9zcQB+ALZ0AApwcmVkaWN0aW9uc3EAfgC2dAAKY29udHJvbGxlcnEAfgC7dXEAfgCoAAAABHNxAH4AqnQADFRyYWluaW5nRGF0YXNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZ0AAtQaW90cmVrb3BlcnEAfgC7c3EAfgCqdAARU2VyaWFsaXphYmxlQ2xhc3NzcQB+AKp0AAdwYWNrYWdlc3EAfgCqdAAKY29udHJvbGxlcnNxAH4AqnQACnByZWRpY3Rpb25zcQB+AKp0AAJpb3NxAH4ArnNxAH4AsXVxAH4AtAAAAAFxAH4Au3NxAH4AqnQABVF1ZXJ5cQB+AQNzcQB+AKp0ABFTZXJpYWxpemFibGVDbGFzc3EAfgEKc3EAfgDyc3EAfgCqdAAOQmFzZURhdGFTb3VyY2VzcQB+AK5zcQB+ALF1cQB+ALQAAAAEc3EAfgC2dAACaW9zcQB+ALZ0AApwcmVkaWN0aW9uc3EAfgC2dAAEY29yZXEAfgC7dXEAfgCoAAAABHEAfgEBcQB+AQhxAH4BFXEAfgEXc3EAfgCqdAAMQWJzdHJhY3REb2VycQB+ARxzcQB+AKpxAH4AynNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZxAH4AuXEAfgC7c3EAfgCqcQB+AMpzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ANBzcQB+ALZ0AAJpb3EAfgC7c3EAfgCqcQB+ANRzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ANBzcQB+ALZxAH4A2nEAfgC7c3EAfgCqcQB+ANxxAH4BKXNxAH4AdnEAfgCDdXEAfgCEAAAAAHNxAH4AhgB0ABBQaW90cmVrb3Blci5Vc2VydXEAfgCJAAAAAHEAfgCNdXEAfgCPAAAAAHNxAH4AkQBwc3EAfgCWcQB+AJtzcQB+AJEAcHNxAH4AlnNxAH4AnnNxAH4AkQBwc3EAfgCWdXEAfgB0AAAAAHNxAH4AkQBwc3EAfgCWdXEAfgB0AAAAAHNxAH4AkQBwc3EAfgCWdXEAfgCoAAAABnNxAH4AqnEAfgDKc3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnEAfgC5cQB+ALtzcQB+AKpxAH4AynNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4A0HNxAH4AtnQAAmlvcQB+ALtzcQB+AKpxAH4ArXEAfgFQc3EAfgCqdAAGRXF1YWxzcQB+AVBzcQB+AKpxAH4A1HNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4A0HNxAH4AtnEAfgDacQB+ALtzcQB+AKpxAH4A3HEAfgFQc3EAfgB2cQB+AIN1cQB+AIQAAAAAc3EAfgCGAHQAEFBpb3RyZWtvcGVyLlBvc3R1cQB+AIkAAAAAcQB+AI11cQB+AI8AAAAAc3EAfgCRAHBzcQB+AJZxAH4Am3NxAH4AkQBwc3EAfgCWc3EAfgCec3EAfgCRAHBzcQB+AJZ1cQB+AHQAAAAAc3EAfgCRAHBzcQB+AJZ1cQB+AHQAAAAAc3EAfgCRAHBzcQB+AJZ1cQB+AKgAAAAGc3EAfgCqcQB+AMpzcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+ALlxAH4Au3NxAH4AqnEAfgDKc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgDQc3EAfgC2dAACaW9xAH4Au3NxAH4AqnEAfgCtcQB+AXpzcQB+AKp0AAZFcXVhbHNxAH4BenNxAH4AqnEAfgDUc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgDQc3EAfgC2cQB+ANpxAH4Au3NxAH4AqnEAfgDccQB+AXpzcQB+AHZxAH4Ag3VxAH4AhAAAAABzcQB+AIYAdAAVUGlvdHJla29wZXIuTGlrZUV2ZW50dXEAfgCJAAAAAHEAfgCNdXEAfgCPAAAAAHNxAH4AkQBwc3EAfgCWcQB+AJtzcQB+AJEAcHNxAH4AlnNxAH4AnnNxAH4AkQBwc3EAfgCWdXEAfgB0AAAAAHNxAH4AkQBwc3EAfgCWdXEAfgB0AAAAAHNxAH4AkQBwc3EAfgCWdXEAfgCoAAAABnNxAH4AqnEAfgDKc3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnEAfgC5cQB+ALtzcQB+AKpxAH4AynNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4A0HNxAH4AtnQAAmlvcQB+ALtzcQB+AKpxAH4ArXEAfgGkc3EAfgCqdAAGRXF1YWxzcQB+AaRzcQB+AKpxAH4A1HNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4A0HNxAH4AtnEAfgDacQB+ALtzcQB+AKpxAH4A3HEAfgGkc3EAfgB2cQB+AIN1cQB+AIQAAAAAc3EAfgCGAHQAGFBpb3RyZWtvcGVyLlRyYWluaW5nRGF0YXVxAH4AiQAAAABxAH4AjXVxAH4AjwAAAABzcQB+AJEAcHNxAH4AlnEAfgCbc3EAfgCRAHBzcQB+AJZzcQB+AJ5zcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AqAAAAARzcQB+AKpxAH4AynNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZxAH4AuXEAfgC7c3EAfgCqcQB+AMpzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ANBzcQB+ALZ0AAJpb3EAfgC7c3EAfgCqcQB+ANRzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ANBzcQB+ALZxAH4A2nEAfgC7c3EAfgCqcQB+ANxxAH4BznVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC1Bpb3RyZWtvcGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPWitpenVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGAvVXNlcnMvcGV0ZXJidWdhai9Eb3dubG9hZHMvUHJlZGljdGlvbklPVHJhaW5pbmcvcmVjb21tZW5kYXRpb24tZW5naW5lL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRYEdwrvG8FOe3owRm8TYndN1a+EA==
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBvhkvSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ6Zl3N0AAZub3RpZnlzcQB+AAxIEKFVdAAEd2FpdHNxAH4ADDXMAOt0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJWmVo10AA0kYXNJbnN0YW5jZU9mc3EAfgAMMCT2inQADHByb2R1Y3RBcml0eXNxAH4ADLwnOkN0AAZlcXVhbHNzcQB+AAyAayrwdAAMYXNJbnN0YW5jZU9mc3EAfgAMnauj+nQADGVuZ2luZVBhcmFtc3NxAH4ADJS5GjV0AAxzeW5jaHJvbml6ZWRzcQB+AAxKKq+WdAANJGlzSW5zdGFuY2VPZnNxAH4ADLtUSXt0AAhjYW5FcXVhbHNxAH4ADDH/etN0AAlQb3N0U2NvcmVzcQB+AAwktYmgdAAFUXVlcnlzcQB+AAzsU/fFdAANcHJvZHVjdFByZWZpeHNxAH4ADBRSB0F0AAlub3RpZnlBbGxzcQB+AAwml/qndAAMaXNJbnN0YW5jZU9mc3EAfgAMpYjc4nQABWxpa2Vzc3EAfgAM5peUCnQABnBvc3RJRHNxAH4ADNKCJx90AAY8aW5pdD5zcQB+AAzOqjvMdAAFYXBwbHlzcQB+AAyb8lixdAAPUHJlZGljdGVkUmVzdWx0c3EAfgAMZcrMY3QACmxpa2VTY29yZXNzcQB+AAw5lpKDdAAUUHJvZHVjdFJhbmtpbmdFbmdpbmVzcQB+AAxjzyrfdAACPT1zcQB+AAzMA0+0dAAFY2xvbmVzcQB+AAxwdRXjdAAEY29weXNxAH4ADPUcA310AAh0b1N0cmluZ3NxAH4ADJAwS6Z0AAIhPXNxAH4ADNfhBm10AApsYXN0UG9zdElkc3EAfgAMG5wKy3QACGdldENsYXNzc3EAfgAMjb99VXQADmNvcHkkZGVmYXVsdCQxc3EAfgAM+OxmynQAAm5lc3EAfgAMi7PK7nQABWxpbWl0c3EAfgAMuo23+nQAAmVxc3EAfgAM1uqp43QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADIEjJnF0AAIjI3NxAH4ADAdu3lJ0AAhmaW5hbGl6ZXNxAH4ADE7/Ewh0AA5wcm9kdWN0RWxlbWVudHNxAH4ADIEadWJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABFQaW90cmVrb3Blci5RdWVyeXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Afnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfQBwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhnNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQB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AlnEAfgC1c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCxc3EAfgCicQB+ALtxAH4Ap3NxAH4AlnEAfgC9c3EAfgCac3EAfgCddXEAfgCgAAAAAnNxAH4AonEAfgClcQB+AKd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtQaW90cmVrb3BlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1oraXp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABgL1VzZXJzL3BldGVyYnVnYWovRG93bmxvYWRzL1ByZWRpY3Rpb25JT1RyYWluaW5nL3JlY29tbWVuZGF0aW9uLWVuZ2luZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUweXTtB3b2gTAV9LKW9l4nDe/Boc=
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAp4l/0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAX5EnJ0AAZub3RpZnlzcQB+AAzv/0E3dAAEd2FpdHNxAH4ADEpgAeF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMmuXjbnQABXBvc3Rzc3EAfgAMXwCE+3QABmVxdWFsc3NxAH4ADDb5t550AAxhc0luc3RhbmNlT2ZzcQB+AAzva7sBdAAHcHJlcGFyZXNxAH4ADE9L6Tt0AAV1c2Vyc3NxAH4ADGuIjjZ0AAxzeW5jaHJvbml6ZWRzcQB+AAy/Z5dBdAANJGlzSW5zdGFuY2VPZnNxAH4ADMts1Eh0AAtwcmVwYXJlQmFzZXNxAH4ADCcnnJl0AAlub3RpZnlBbGxzcQB+AAwuFRR4dAAMaXNJbnN0YW5jZU9mc3EAfgAMWAE7FnQACmxpa2VFdmVudHNzcQB+AAwx6uFLdAAGPGluaXQ+c3EAfgAM6/HxPXQAAj09c3EAfgAMW5TUCHQADFByZXBhcmVkRGF0YXNxAH4ADFdzT8Z0AAVjbG9uZXNxAH4ADKKCSr90AApQcmVwYXJhdG9yc3EAfgAMuy4VTXQACHRvU3RyaW5nc3EAfgAM5R+ZDnQAAiE9c3EAfgAM2B1zenQACGdldENsYXNzc3EAfgAMqz+OhXQAAm5lc3EAfgAMbAiEDnQAAmVxc3EAfgAMapweH3QAAiMjc3EAfgAMacFY5nQACGZpbmFsaXplc3EAfgAM67nXzXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFlBpb3RyZWtvcGVyLlByZXBhcmF0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGUAcHNxAH4AanNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG5zcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAHc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AG1zcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4Af3hxAH4AbXQAC1BQcmVwYXJhdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHN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
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDZZLOYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIOKs9R0AAZub3RpZnlzcQB+AAxV7b+jdAAKc3VwcGxlbWVudHNxAH4ADMriZpd0AAR3YWl0c3EAfgAMtcAGDXQADSRhc0luc3RhbmNlT2ZzcQB+AAzwJB2ddAAGZXF1YWxzc3EAfgAMzpHFpHQABXNlcnZlc3EAfgAMjLo9FHQADGFzSW5zdGFuY2VPZnNxAH4ADOtyq5Z0AAxzeW5jaHJvbml6ZWRzcQB+AAx9I2aodAANJGlzSW5zdGFuY2VPZnNxAH4ADGtDDt10AAlub3RpZnlBbGxzcQB+AAze1oVTdAAMaXNJbnN0YW5jZU9mc3EAfgAMcLkEUnQADnN1cHBsZW1lbnRCYXNlc3EAfgAMMeF26XQABjxpbml0PnNxAH4ADAbfp7J0AAI9PXNxAH4ADOo0hfR0AAVjbG9uZXNxAH4ADMT46oF0AAh0b1N0cmluZ3NxAH4ADCshbDZ0AAIhPXNxAH4ADJ9ZRhp0AAlzZXJ2ZUJhc2VzcQB+AAyjgp8PdAAIZ2V0Q2xhc3NzcQB+AAwPlbxudAACbmVzcQB+AAzEA5UmdAAHU2VydmluZ3NxAH4ADI8XmbZ0AAJlcXNxAH4ADOVlz8l0AAIjI3NxAH4ADLaglU50AAhmaW5hbGl6ZXNxAH4ADF3qqLF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNQaW90cmVrb3Blci5TZXJ2aW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAlaW8ucHJlZGljdGlvbi5hbm5vdGF0aW9uLkV4cGVyaW1lbnRhbHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AY3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYgBwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4Aa3NxAH4AYgBwc3EAfgBndXEAfgBEAAAAAHNxAH4AYgBwc3EAfgBndXEAfgBEAAAAAHNxAH4AYgBwc3EAfgBndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBldAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AanNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHEAfgB8eHEAfgBqdAAITFNlcnZpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAAmlvc3EAfgCKdAAKcHJlZGljdGlvbnNxAH4AinQACmNvbnRyb2xsZXJzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3VxAH4AeQAAAAJzcQB+AH90AAVRdWVyeXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAtQaW90cmVrb3BlcnEAfgCTc3EAfgB/dAAPUHJlZGljdGVkUmVzdWx0cQB+AJdzcQB+AHtzcQB+AH90AAtCYXNlU2VydmluZ3NxAH4AgnNxAH4AhXVxAH4AiAAAAARzcQB+AIp0AAJpb3NxAH4AinQACnByZWRpY3Rpb25zcQB+AIp0AARjb3JlcQB+AJN1cQB+AHkAAAACcQB+AJVxAH4AnHNxAH4Af3QADEFic3RyYWN0RG9lcnEAfgChc3EAfgB/dAAMU2VyaWFsaXphYmxlc3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJNzcQB+AH9xAH4ArnNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIp0AARqYXZhc3EAfgCKdAACaW9xAH4Ak3NxAH4Af3QABk9iamVjdHNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIpxAH4AuXNxAH4AinQABGxhbmdxAH4Ak3NxAH4Af3QAA0FueXEAfgCvdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALUGlvdHJla29wZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU9aK2l6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYC9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9yZWNvbW1lbmRhdGlvbi1lbmdpbmUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNIijTj0jO5fKp1FIM7UTWddt09z
+external apis:
+0 items
+source infos:
+5 items
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/ALSAlgorithm.scala -> 
+AAAAAAAAAAA=
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/DataSource.scala -> 
+AAAAAAAAAAA=
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Engine.scala -> 
+AAAAAAAAAAEAAAEAAAAqADRvYmplY3QgUHJvZHVjdFJhbmtpbmdFbmdpbmUgZXh0ZW5kcyBJRW5naW5lRmFjdG9yeSB7AQAAA3cBAAAAJAEAJCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAYi9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9yZWNvbW1lbmRhdGlvbi1lbmdpbmUvc3JjL21haW4vc2NhbGEvRW5naW5lLnNjYWxhAQBiL1VzZXJzL3BldGVyYnVnYWovRG93bmxvYWRzL1ByZWRpY3Rpb25JT1RyYWluaW5nL3JlY29tbWVuZGF0aW9uLWVuZ2luZS9zcmMvbWFpbi9zY2FsYS9FbmdpbmUuc2NhbGEAVHRyYWl0IElFbmdpbmVGYWN0b3J5IGluIHBhY2thZ2UgY29udHJvbGxlciBpcyBkZXByZWNhdGVkOiBVc2UgRW5naW5lRmFjdG9yeSBpbnN0ZWFkLgE=
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Preparator.scala -> 
+AAAAAAAAAAA=
+/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/src/main/scala/Serving.scala -> 
+AAAAAAAAAAA=
+compilations:
+23 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1c+GZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1f+VRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1hfoAl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1iVsBt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1lHTwt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1lHboB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1liOll1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1liYMZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1l5oT11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1l5xHB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1mNXpp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1nNx4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1nN7B11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1nTiuF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1nTpfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1ngbP51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1ngkHh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1n/od11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1oKlz91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1oOb291cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1ocmNl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1okdq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYS9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9zYW1wbGUtZW5naW5lLXRlbXBsYXRlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT1oraXp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9wZXRlcmJ1Z2FqL0Rvd25sb2Fkcy9QcmVkaWN0aW9uSU9UcmFpbmluZy9yZWNvbW1lbmRhdGlvbi1lbmdpbmUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=

@@ -1,0 +1,76 @@
+[INFO] [HBLEvents] The table pio_event:events_28 doesn't exist yet. Creating now...
+[INFO] [App$] Initialized Event Store for this app ID: 28.
+[INFO] [App$] Created new app:
+[INFO] [App$]       Name: Test
+[INFO] [App$]         ID: 28
+[INFO] [App$] Access Key: ErcSdb7fF0nGOZ1fXsFeLr3LmA6RArPHAFDpeaTOKcEISYKd8yObXxGmzC9RU7hW
+Namespace(access_key='ErcSdb7fF0nGOZ1fXsFeLr3LmA6RArPHAFDpeaTOKcEISYKd8yObXxGmzC9RU7hW', url='http://localhost:7070')
+{u'status': u'alive'}
+Importing test data...
+All test data has been imported.
+
+[INFO] [Console$] Using existing engine manifest JSON at /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/manifest.json
+[INFO] [Console$] Using command '/Users/peterbugaj/PredictionIO/sbt/sbt' at the current working directory to build.
+[INFO] [Console$] If the path above is incorrect, this process will fail.
+[INFO] [Console$] Uber JAR disabled. Making sure lib/pio-assembly-0.9.4.jar is absent.
+[INFO] [Console$] Going to run: /Users/peterbugaj/PredictionIO/sbt/sbt  package assemblyPackageDependency
+[DEBUG] [UpgradeCheckRunner] Update metainfo not found. http://direct.prediction.io/0.9.4/build/Piotrekoper.ProductRankingEngine.json
+[INFO] [Console$] [0m[[0minfo[0m] [0mLoading project definition from /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/project[0m
+[INFO] [Console$] [0m[[0minfo[0m] [0mSet current project to template-scala-parallel-productranking (in build file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/)[0m
+[INFO] [Console$] [0m[[33mwarn[0m] [0mNo main class detected[0m
+[INFO] [Console$] [0m[[32msuccess[0m] [0mTotal time: 1 s, completed 23-Aug-2015 2:52:30 PM[0m
+[INFO] [Console$] [0m[[33mwarn[0m] [0mNo main class detected[0m
+[INFO] [Console$] [0m[[0minfo[0m] [0mIncluding from cache: scala-library.jar[0m
+[INFO] [Console$] [0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[INFO] [Console$] [0m[[0minfo[0m] [0mMerging files...[0m
+[INFO] [Console$] [0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[INFO] [Console$] [0m[[33mwarn[0m] [0mStrategy 'discard' was applied to a file[0m
+[INFO] [Console$] [0m[[0minfo[0m] [0mAssembly up to date: /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/template-scala-parallel-productranking-assembly-0.1-SNAPSHOT-deps.jar[0m
+[INFO] [Console$] [0m[[32msuccess[0m] [0mTotal time: 1 s, completed 23-Aug-2015 2:52:31 PM[0m
+[INFO] [Console$] Build finished successfully.
+[INFO] [Console$] Looking for an engine...
+[INFO] [Console$] Found template-scala-parallel-productranking-assembly-0.1-SNAPSHOT-deps.jar
+[INFO] [Console$] Found template-scala-parallel-productranking_2.10-0.1-SNAPSHOT.jar
+[INFO] [plugins] [Squirrel Girl] loaded [], sites []
+[INFO] [RegisterEngine$] Registering engine T8sohl73NTOm5C4Ue4xb6oU2BuqglkCy aeed78f4d9d1f25d7bdb7ef852d9ccfd30912051
+[INFO] [Console$] Your engine is ready for training.
+[INFO] [Console$] Using existing engine manifest JSON at /Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/manifest.json
+[INFO] [Runner$] Submission command: /Users/peterbugaj/PredictionIO/vendors/spark-1.4.1/bin/spark-submit --class io.prediction.workflow.CreateWorkflow --jars file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/template-scala-parallel-productranking-assembly-0.1-SNAPSHOT-deps.jar,file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/template-scala-parallel-productranking_2.10-0.1-SNAPSHOT.jar --files file:/Users/peterbugaj/PredictionIO/conf/log4j.properties,file:/Users/peterbugaj/PredictionIO/vendors/hbase-1.0.0/conf/hbase-site.xml --driver-class-path /Users/peterbugaj/PredictionIO/conf:/Users/peterbugaj/PredictionIO/vendors/hbase-1.0.0/conf file:/Users/peterbugaj/PredictionIO/lib/pio-assembly-0.9.4.jar --engine-id T8sohl73NTOm5C4Ue4xb6oU2BuqglkCy --engine-version aeed78f4d9d1f25d7bdb7ef852d9ccfd30912051 --engine-variant file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/engine.json --verbosity 0 --json-extractor Both --env PIO_STORAGE_SOURCES_HBASE_TYPE=hbase,PIO_ENV_LOADED=1,PIO_STORAGE_REPOSITORIES_METADATA_NAME=pio_meta,PIO_FS_BASEDIR=/Users/peterbugaj/.pio_store,PIO_STORAGE_SOURCES_HBASE_HOME=/Users/peterbugaj/PredictionIO/vendors/hbase-1.0.0,PIO_HOME=/Users/peterbugaj/PredictionIO,PIO_FS_ENGINESDIR=/Users/peterbugaj/.pio_store/engines,PIO_STORAGE_SOURCES_LOCALFS_PATH=/Users/peterbugaj/.pio_store/models,PIO_STORAGE_SOURCES_ELASTICSEARCH_TYPE=elasticsearch,PIO_STORAGE_REPOSITORIES_METADATA_SOURCE=ELASTICSEARCH,PIO_STORAGE_REPOSITORIES_MODELDATA_SOURCE=LOCALFS,PIO_STORAGE_REPOSITORIES_EVENTDATA_NAME=pio_event,PIO_STORAGE_SOURCES_ELASTICSEARCH_HOME=/Users/peterbugaj/PredictionIO/vendors/elasticsearch-1.4.4,PIO_FS_TMPDIR=/Users/peterbugaj/.pio_store/tmp,PIO_STORAGE_REPOSITORIES_MODELDATA_NAME=pio_model,PIO_STORAGE_REPOSITORIES_EVENTDATA_SOURCE=HBASE,PIO_CONF_DIR=/Users/peterbugaj/PredictionIO/conf,PIO_STORAGE_SOURCES_LOCALFS_TYPE=localfs
+[INFO] [Engine] Extracting datasource params...
+[INFO] [WorkflowUtils$] No 'name' is found. Default empty String will be used.
+[INFO] [Engine] Datasource params: (,DataSourceParams(Test))
+[INFO] [Engine] Extracting preparator params...
+[INFO] [Engine] Preparator params: (,Empty)
+[WARN] [WorkflowUtils$] Non-empty parameters supplied to Piotrekoper.ALSAlgorithm, but its constructor does not accept any arguments. Stubbing with empty parameters.
+[INFO] [Engine] Extracting serving params...
+[INFO] [Engine] Serving params: (,Empty)
+[INFO] [Remoting] Starting remoting
+[INFO] [Remoting] Remoting started; listening on addresses :[akka.tcp://sparkDriver@10.170.39.120:49753]
+[INFO] [Engine$] EngineWorkflow.train
+[INFO] [Engine$] DataSource: Piotrekoper.DataSource@f86cfec
+[INFO] [Engine$] Preparator: Piotrekoper.Preparator@214fbab7
+[INFO] [Engine$] AlgorithmList: List(Piotrekoper.ALSAlgorithm@56deee7c)
+[INFO] [Engine$] Data sanity check is on.
+[WARN] [TableInputFormatBase] Cannot resolve the host name for /10.170.39.120 because of javax.naming.NameNotFoundException: DNS name not found [response code 3]; remaining name '120.39.170.10.in-addr.arpa'
+[WARN] [TableInputFormatBase] Cannot resolve the host name for /10.170.39.120 because of javax.naming.NameNotFoundException: DNS name not found [response code 3]; remaining name '120.39.170.10.in-addr.arpa'
+[INFO] [Engine$] Piotrekoper.TrainingData does not support data sanity check. Skipping check.
+[INFO] [Engine$] Piotrekoper.PreparedData does not support data sanity check. Skipping check.
+[WARN] [TableInputFormatBase] Cannot resolve the host name for /10.170.39.120 because of javax.naming.NameNotFoundException: DNS name not found [response code 3]; remaining name '120.39.170.10.in-addr.arpa'
+[INFO] [Engine$] Piotrekoper.ALSModel does not support data sanity check. Skipping check.
+[INFO] [Engine$] EngineWorkflow.train completed
+[INFO] [Engine] engineInstanceId=AU9b58Y1VshJpQjlO8ML
+[INFO] [CoreWorkflow$] Inserting persistent model
+[INFO] [CoreWorkflow$] Updating engine instance
+[INFO] [CoreWorkflow$] Training completed successfully.
+[INFO] [Runner$] Submission command: /Users/peterbugaj/PredictionIO/vendors/spark-1.4.1/bin/spark-submit --class io.prediction.workflow.CreateServer --jars file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/template-scala-parallel-productranking-assembly-0.1-SNAPSHOT-deps.jar,file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/target/scala-2.10/template-scala-parallel-productranking_2.10-0.1-SNAPSHOT.jar --files file:/Users/peterbugaj/PredictionIO/conf/log4j.properties,file:/Users/peterbugaj/PredictionIO/vendors/hbase-1.0.0/conf/hbase-site.xml --driver-class-path /Users/peterbugaj/PredictionIO/conf:/Users/peterbugaj/PredictionIO/vendors/hbase-1.0.0/conf file:/Users/peterbugaj/PredictionIO/lib/pio-assembly-0.9.4.jar --engineInstanceId AU9b58Y1VshJpQjlO8ML --engine-variant file:/Users/peterbugaj/Downloads/PredictionIOTraining/recommendation-engine/engine.json --ip 0.0.0.0 --port 8000 --event-server-ip 0.0.0.0 --event-server-port 7070 --json-extractor Both --env PIO_STORAGE_SOURCES_HBASE_TYPE=hbase,PIO_ENV_LOADED=1,PIO_STORAGE_REPOSITORIES_METADATA_NAME=pio_meta,PIO_FS_BASEDIR=/Users/peterbugaj/.pio_store,PIO_STORAGE_SOURCES_HBASE_HOME=/Users/peterbugaj/PredictionIO/vendors/hbase-1.0.0,PIO_HOME=/Users/peterbugaj/PredictionIO,PIO_FS_ENGINESDIR=/Users/peterbugaj/.pio_store/engines,PIO_STORAGE_SOURCES_LOCALFS_PATH=/Users/peterbugaj/.pio_store/models,PIO_STORAGE_SOURCES_ELASTICSEARCH_TYPE=elasticsearch,PIO_STORAGE_REPOSITORIES_METADATA_SOURCE=ELASTICSEARCH,PIO_STORAGE_REPOSITORIES_MODELDATA_SOURCE=LOCALFS,PIO_STORAGE_REPOSITORIES_EVENTDATA_NAME=pio_event,PIO_STORAGE_SOURCES_ELASTICSEARCH_HOME=/Users/peterbugaj/PredictionIO/vendors/elasticsearch-1.4.4,PIO_FS_TMPDIR=/Users/peterbugaj/.pio_store/tmp,PIO_STORAGE_REPOSITORIES_MODELDATA_NAME=pio_model,PIO_STORAGE_REPOSITORIES_EVENTDATA_SOURCE=HBASE,PIO_CONF_DIR=/Users/peterbugaj/PredictionIO/conf,PIO_STORAGE_SOURCES_LOCALFS_TYPE=localfs
+[WARN] [WorkflowUtils$] Non-empty parameters supplied to Piotrekoper.Preparator, but its constructor does not accept any arguments. Stubbing with empty parameters.
+[WARN] [WorkflowUtils$] Non-empty parameters supplied to Piotrekoper.ALSAlgorithm, but its constructor does not accept any arguments. Stubbing with empty parameters.
+[WARN] [WorkflowUtils$] Non-empty parameters supplied to Piotrekoper.Serving, but its constructor does not accept any arguments. Stubbing with empty parameters.
+[INFO] [Remoting] Starting remoting
+[INFO] [Remoting] Remoting started; listening on addresses :[akka.tcp://sparkDriver@10.170.39.120:49801]
+[INFO] [Engine] Using persisted model
+[INFO] [Engine] Loaded model Piotrekoper.ALSModel for algorithm Piotrekoper.ALSAlgorithm
+[INFO] [MasterActor] Undeploying any existing engine instance at http://0.0.0.0:8000
+[WARN] [MasterActor] Nothing at http://0.0.0.0:8000
+[INFO] [HttpListener] Bound to /0.0.0.0:8000
+[INFO] [MasterActor] Engine is deployed and running. Engine API is live at http://0.0.0.0:8000.
