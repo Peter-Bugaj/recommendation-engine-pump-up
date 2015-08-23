@@ -10,6 +10,8 @@ Thumbs.db
 
 # Compile folders
 target
+project/target
+project/project/target
 
 # Compile files
 manifest.json
