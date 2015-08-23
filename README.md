@@ -77,3 +77,39 @@ http://localhost:8000/queries.json
 curl -H "Content-Type: application/json" \
 -d '{"lastPostId": "p102", "limit":6}' \
 http://localhost:8000/queries.json
+
+##### Note:
+The $ACCESS_KEY used below is the key created for the app associated with
+prediction io when running the command: pio app new [NEW_APP_NAME]
+
+##### Add a new user with ID 'u123':
+curl -i -X POST http://localhost:7070/events.json?accessKey=$ACCESS_KEY \
+-H "Content-Type: application/json" \
+-d '{
+  "event" : "$set",
+  "entityType" : "user"
+  "entityId" : "u123",
+  "eventTime" : "2020-11-02T09:39:45.618-08:00"
+}'
+
+##### Add a new post with ID 'p123':
+curl -i -X POST http://localhost:7070/events.json?accessKey=$ACCESS_KEY \
+-H "Content-Type: application/json" \
+-d '{
+  "event" : "$set",
+  "entityType" : "post"
+  "entityId" : "p123",
+  "eventTime" : "2020-11-02T09:39:45.618-08:00"
+}'
+
+##### Add a new like event for a post where user 'u123' like post 'p123':
+curl -i -X POST http://localhost:7070/events.json?accessKey=$ACCESS_KEY \
+-H "Content-Type: application/json" \
+-d '{
+  "event" : "like",
+  "entityType" : "user"
+  "entityId" : "u123",
+  "targetEntityType" : "post",
+  "targetEntityId" : "p123",
+  "eventTime" : "2014-11-10T12:34:56.123-08:00"
+}'
