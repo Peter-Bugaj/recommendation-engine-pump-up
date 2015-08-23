@@ -10,7 +10,7 @@ case class Query(
 
   // The post ID to start returning the most liked posts from.
   lastPostId: String,
-  
+
   // The limit for the number of posts to retun.
   limit: Integer
 ) extends Serializable
@@ -31,10 +31,10 @@ case class PredictedResult(
  * The result showing how much likes a post has.
  */
 case class PostScore(
-  
+
   // The post ID.
   postID: String,
-  
+
   // The number of likes for this post.
   likes: Integer
 ) extends Serializable

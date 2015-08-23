@@ -65,7 +65,7 @@ def import_events(client):
       likes_per_post[popular_id] += 1;
 
   print "All test data has been imported.\n"
-  
+
   # Save the test data as expected output to use for testing
   # against actual output when calling the REST APIs.
   testOutputFile = open(

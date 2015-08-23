@@ -69,7 +69,7 @@ class DataSource(val dsp: DataSourceParams)
       eventNames = Some(List("like")),
       // targetEntityType is optional field of an event.
       targetEntityType = Some(Some("post")))(sc)
- 
+
       // eventsDb.find() returns RDD[Event]
       .map { event =>
         val likeEvent = try {

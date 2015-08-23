@@ -45,7 +45,7 @@ if len(engine_client.send_query({"limit" : "100"})['likeScores']) == len(test_da
 else:
     TESTS_FAILED +=1
     print "TEST2 has faied!"
-    
+
 
 """
 TEST3: Provide a low limit and expect the given number of elements to be returned.
@@ -56,7 +56,7 @@ if len(engine_client.send_query({"limit" : "7"})['likeScores']) == 7:
 else:
     TESTS_FAILED +=1
     print "TEST3 has faied!"
-    
+
 
 """
 TEST4: Test that the data returned is sorted in descending order.
@@ -86,7 +86,7 @@ for actual_element in elements:
     actual_likes = int(actual_element['likes'])
     if expected_likes != actual_likes:
         unmatching = True
-        
+
 if unmatching == False:
     TESTS_SUCCEEDED += 1
     print "TEST5 has succeeded!"

@@ -45,7 +45,7 @@ class ALSAlgorithm()
       s"posts in PreparedData cannot be empty." +
       " Please check if DataSource generates TrainingData" +
       " and Preprator generates PreparedData correctly.")
-      
+
     // Count the number of likes per post
     // and sort it in descending order.
     val userStringIntMap = BiMap.stringInt(data.users.keys)
@@ -68,10 +68,10 @@ class ALSAlgorithm()
 
       }.filter { case (u, pid, pname, v) =>
         (u != -1) && (pid != -1)
-      
+
       }.map{
         triplet => (triplet._3 , triplet._4 )
-      
+
         // Finally sum up the likes per post and sort them
         // by number of likes to get the most liked.
       }.reduceByKey(_ + _).sortBy(pair => pair._2, false);
@@ -87,7 +87,7 @@ class ALSAlgorithm()
    * from and a limit to the total number of posts to return.
    */
   def predict(model: ALSModel, query: Query): PredictedResult = {
-    
+
     // Fetch the model parameters.
     val postRanks = model.ranks;
     if (postRanks.take(1).isEmpty) {
@@ -95,20 +95,20 @@ class ALSAlgorithm()
         likeScores = Array()
       );
     }
-    
+
     // Read the query parameters.
     val lastPostId = query.lastPostId;
     val limit = query.limit;
-    
+
     // Fetch the last post to get the ID from and the limit if provided
     val postPosition = if (lastPostId == null) 0
       else postRanks.indexWhere(pair => lastPostId.equals(pair._1) );
-    
+
     // Compute the range of the data to return.
     val start = if (postPosition == -1) 0 else postPosition;
     val end = if (limit == null) postRanks.length
       else Math.min(start + limit, postRanks.length);
- 
+
     // Return the most liked posts
     PredictedResult(
       likeScores = postRanks.slice(start, end).
