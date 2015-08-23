@@ -60,6 +60,9 @@ echo "Deploying the recommendation engine.\n"
 echo "Deploying the recommendation engine.\n" >> output.log
 pio deploy </dev/null &>/dev/null &
 
+echo "Sleeping for 15 seconds to allow engine to deploy.\n"
+sleep 15
+
 
 # Print confirmation message.
 echo "Installation complete.\n"

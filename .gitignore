@@ -11,5 +11,10 @@ Thumbs.db
 # Compile folders
 target
 
+# Compile files
+manifest.json
+
 # Log files
 output.log
+pio.log
+pio.sbt
