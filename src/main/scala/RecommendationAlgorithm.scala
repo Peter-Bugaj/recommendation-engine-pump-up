@@ -87,7 +87,6 @@ class RecommendationAlgorithm()
 
     // Fetch the model parameters.
     val postRanks = model.ranks;
-    val postIdToRank = model.postIdToRankIndex;
 
     if (postRanks.take(1).isEmpty) {
       return PredictedResult(
@@ -101,7 +100,7 @@ class RecommendationAlgorithm()
 
     // Fetch the last post to get the ID from and the limit if provided
     val postPosition = if (lastPostId == null) 0
-      else model.binarySearch(postIdToRank, lastPostId);
+      else model.getPostPosition(lastPostId);
 
     // Compute the range of the data to return.
     val start = if (postPosition == -1) 0 else postPosition;

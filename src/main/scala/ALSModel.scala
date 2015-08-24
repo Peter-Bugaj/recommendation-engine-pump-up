@@ -12,7 +12,7 @@ class ALSModel(
   // array. This structure is sorted such that binary search can be
   // performed on the post ID when a request is sent asking to return
   // likes after a specified 'LastPostId'.
-  val postIdToRankIndex: IndexedSeq[(String, Int)]
+  private val postIdToRankIndex: IndexedSeq[(String, Int)]
 
 ) extends Serializable {
 
@@ -21,7 +21,7 @@ class ALSModel(
    * For an expected array of 3 million values, the query time is 32
    * milliseconds.
    */
-  def binarySearch(ds: IndexedSeq[(String, Int)], key: String): Int = {
+  private def binarySearch(ds: IndexedSeq[(String, Int)], key: String): Int = {
     @annotation.tailrec
     def go(low: Int, mid: Int, high: Int): Int = {
       mid match {
@@ -35,6 +35,14 @@ class ALSModel(
       case 0 => -1
       case _ => go(0, ds.size / 2, ds.size - 1)
     }
+  }
+
+  /**
+   * Return the position of a post by last post ID,
+   * within the rank array.
+   */
+  def getPostPosition(lastPostId: String): Int = {
+    binarySearch(postIdToRankIndex, lastPostId);
   }
 
   override def toString = {
