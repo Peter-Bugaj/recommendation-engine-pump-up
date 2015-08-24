@@ -17,7 +17,7 @@ import scala.collection.parallel.immutable.ParVector
  * ALgorithm for reading in training data, creating a predictive
  * model, and for executing a query using the help of the model.
  */
-class ALSAlgorithm()
+class RecommendationAlgorithm()
   extends P2LAlgorithm[PreparedData, ALSModel, Query, PredictedResult] {
 
   @transient lazy val logger = Logger[this.type]
