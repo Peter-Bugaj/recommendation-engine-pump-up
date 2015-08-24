@@ -14,15 +14,6 @@ import grizzled.slf4j.Logger
 import scala.collection.parallel.immutable.ParVector
 
 /**
- * The model for the most liked posts.
- */
-class ALSModel(val ranks: Array[(String, Int)]) extends Serializable {
-  override def toString = {
-    s" ranks: ${ranks}"
-  }
-}
-
-/**
  * ALgorithm for reading in training data, creating a predictive
  * model, and for executing a query using the help of the model.
  */
@@ -70,14 +61,20 @@ class ALSAlgorithm()
         (u != -1) && (pid != -1)
 
       }.map{
-        triplet => (triplet._3 , triplet._4 )
+        quad => (quad._3 , quad._4 )
 
         // Finally sum up the likes per post and sort them
         // by number of likes to get the most liked.
       }.reduceByKey(_ + _).sortBy(pair => pair._2, false);
 
+    // Build the model.
+    val ranks = counts.collect()
+    val postIdToRankIndex = ranks.indices
+      .map(index => (ranks(index)._1, index))
+      .sortBy(pair => pair._1);
     new ALSModel(
-      ranks = counts.collect()
+      ranks = ranks,
+      postIdToRankIndex = postIdToRankIndex
     )
   }
 
@@ -90,6 +87,8 @@ class ALSAlgorithm()
 
     // Fetch the model parameters.
     val postRanks = model.ranks;
+    val postIdToRank = model.postIdToRankIndex;
+
     if (postRanks.take(1).isEmpty) {
       return PredictedResult(
         likeScores = Array()
@@ -102,7 +101,7 @@ class ALSAlgorithm()
 
     // Fetch the last post to get the ID from and the limit if provided
     val postPosition = if (lastPostId == null) 0
-      else postRanks.indexWhere(pair => lastPostId.equals(pair._1) );
+      else model.binarySearch(postIdToRank, lastPostId);
 
     // Compute the range of the data to return.
     val start = if (postPosition == -1) 0 else postPosition;
